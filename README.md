@@ -1,3 +1,3 @@
 
 Live Demo
-https://onurhancaglan.github.io/soccer-simulator-react/
+https://chrisytic.github.io/soccer-simulator-react/
